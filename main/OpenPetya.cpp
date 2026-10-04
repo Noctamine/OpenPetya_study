@@ -37,6 +37,7 @@ What is CAN'T do:
 #include <cstring>
 #include <tchar.h>
 #include <wincrypt.h>
+#include <cstdint>
 
 #include "config.h"
 #include "utils.h"

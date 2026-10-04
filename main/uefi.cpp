@@ -1,5 +1,6 @@
 // uefi.cpp
 
+#include <cstdint>
 #include "uefi.h"
 #include "utils.h"
 #include "config.h"

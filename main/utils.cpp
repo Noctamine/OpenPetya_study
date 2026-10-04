@@ -1,5 +1,6 @@
 // utils.cpp
 
+#include <cstdint>
 #include "utils.h"
 
 clsDiskHandle::clsDiskHandle() = default;
